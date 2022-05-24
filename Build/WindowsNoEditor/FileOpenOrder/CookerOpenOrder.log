@@ -1,0 +1,710 @@
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Explosion01.uasset" 0
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Explosion02.uasset" 1
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 2
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 3
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 4
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 5
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 6
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 7
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 8
+"../../../Engine/Content/BasicShapes/Cone.uasset" 9
+"../../../Engine/Content/BasicShapes/Cube.uasset" 10
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 11
+"../../../Engine/Content/BasicShapes/Plane.uasset" 12
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 13
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 14
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 15
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 16
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 17
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 18
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 19
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 20
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 21
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 22
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 23
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 24
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 25
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 26
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 27
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 28
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 29
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 30
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 31
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 32
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 33
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 34
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 35
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 36
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 37
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 38
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 39
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 40
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 41
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 42
+"../../../Engine/Content/EditorResources/S_Note.uasset" 43
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 44
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 45
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 46
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 47
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 48
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 49
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 50
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 51
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 52
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 53
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 54
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 55
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 56
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 57
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 59
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 60
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 61
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 62
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 63
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 64
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 65
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 66
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 67
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 68
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 69
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 70
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 71
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 72
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 73
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 74
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 75
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 76
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 77
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 78
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 79
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 80
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 81
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 82
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 83
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 84
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 85
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 86
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 87
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 88
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 89
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 90
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 91
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 92
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 94
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 95
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 96
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 97
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 98
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 99
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 100
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 101
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 102
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 103
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 104
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 105
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 106
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 107
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 108
+"../../../Engine/Content/EngineResources/Black.uasset" 109
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 110
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 111
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 112
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 113
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 114
+"../../../Engine/Content/EngineSounds/Master.uasset" 115
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 116
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 117
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 118
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 119
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 120
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 121
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 122
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 123
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 124
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 125
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 126
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 127
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 128
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 129
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 130
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 131
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 132
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 133
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 134
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 135
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 136
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 137
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 138
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 139
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 140
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 141
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 142
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 143
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 144
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 145
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 146
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 147
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 148
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 149
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 150
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 151
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 152
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 153
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 154
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 155
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 156
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 157
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 158
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 159
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 160
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 161
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 162
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 163
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 164
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 165
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 166
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 168
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 169
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 170
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 171
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 172
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 173
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 174
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Mesh/FemaleMannequin_Skeleton.uasset" 175
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Animations/A_Female_Jump_End.uasset" 176
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Animations/A_Female_Jump_Loop.uasset" 177
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Animations/A_Female_Jump_Start.uasset" 178
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/idle.uasset" 179
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/runbackwards.uasset" 180
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/runforward.uasset" 181
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/runforwardleft.uasset" 182
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/runforwardright.uasset" 183
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/runLeftStrafe.uasset" 184
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/runrightstrafe.uasset" 185
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/walkbackwards.uasset" 186
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/walkforward.uasset" 187
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/walkforwardleft.uasset" 188
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/walkforwardright.uasset" 189
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/walkleftstrafe.uasset" 190
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/walkrightstrafe.uasset" 191
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Unarmed/BS_DirectionalMovement.uasset" 192
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 193
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Zombie_Anim_BS.uasset" 194
+"E:/Game Development/Projects/MyProject/Content/Animations/Zombie/ZombieAttack.uasset" 195
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_WeaponBase.uasset" 196
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/rifleidle.uasset" 197
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/RunBackwardLeftrifle.uasset" 198
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/RunBackwardrifle.uasset" 199
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/RunBackwardRightrifle.uasset" 200
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/RunForwardLeftrifle.uasset" 201
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/Runforwardrifle.uasset" 202
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/RunForwardRightrifle.uasset" 203
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/RunLeftrifle.uasset" 204
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/RunRightrifle.uasset" 205
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/WalkBackwardLeftrifle.uasset" 206
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/WalkBackwardrifle.uasset" 207
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/WalkBackwardRightrifle.uasset" 208
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/WalkForwardLeftrifle.uasset" 209
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/WalkForwardrifle.uasset" 210
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/WalkForwardRightrifle.uasset" 211
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/WalkLeftrifle.uasset" 212
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/WalkRightrifle.uasset" 213
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/AR/BS_Movement_AR.uasset" 214
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Pistol/pistolidle.uasset" 215
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Pistol/pistolrun.uasset" 216
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Pistol/PistolStrafeleft.uasset" 217
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Pistol/PistolStraferight.uasset" 218
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Pistol/PistolWalk.uasset" 219
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Pistol/PistolWalkBackward.uasset" 220
+"E:/Game Development/Projects/MyProject/Content/Animations/Movement/Pistol/BS_Movement_Pistol.uasset" 221
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Animations/FemaleMannequin_AnimBP.uasset" 222
+"E:/Game Development/Projects/MyProject/Content/Mesh/Blue.uasset" 223
+"E:/Game Development/Projects/MyProject/Content/Mesh/Red.uasset" 224
+"E:/Game Development/Projects/MyProject/Content/Mesh/White.uasset" 225
+"E:/Game Development/Projects/MyProject/Content/Mesh/target.uasset" 226
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_Target.uasset" 227
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048.uasset" 228
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Base/T_colorPalette_METAL.uasset" 229
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette.uasset" 230
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_ColorPalette.uasset" 231
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Weapons/SM_Pistol_01.uasset" 232
+"E:/Game Development/Projects/MyProject/Content/Audio/dryFire.uasset" 233
+"E:/Game Development/Projects/MyProject/Content/Audio/pop.uasset" 234
+"E:/Game Development/Projects/MyProject/Content/Blueprints/S_GunData.uasset" 235
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_Pistol.uasset" 236
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 237
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 239
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 240
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 241
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 242
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 243
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 244
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/Camos/T_MARPAT_Desert.uasset" 245
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_MilitaryPaint_a.uasset" 246
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_MilitaryPaint_n.uasset" 247
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_MilitaryPaint_orm.uasset" 248
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/MaterialLayers/ML_Military_Paint.uasset" 249
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_Steel_a.uasset" 250
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_Steel_n.uasset" 251
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_Steel_orm.uasset" 252
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/MaterialLayers/ML_Military_Steel.uasset" 253
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 254
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 255
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 256
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_UE4_FemaleMannequin_ao.uasset" 257
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_UE4_FemaleMannequin_Masks01.uasset" 258
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_UE4_FemaleMannequin_Masks02.uasset" 259
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_UE4_FemaleMannequin_n.uasset" 260
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/M_FemaleMannequin_Military.uasset" 261
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/Textures/T_decals.uasset" 262
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Materials/M_Mannequin_Decals.uasset" 263
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Mesh/SK_FemaleMannequin_PhysicsAsset.uasset" 264
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/FemaleMannequin/Character/Mesh/SK_FemaleMannequin.uasset" 265
+"E:/Game Development/Projects/MyProject/Content/Icons/hand.uasset" 266
+"E:/Game Development/Projects/MyProject/Content/Icons/pistolAmmo.uasset" 267
+"E:/Game Development/Projects/MyProject/Content/Icons/rifleAmmo.uasset" 268
+"E:/Game Development/Projects/MyProject/Content/Images/crosshair007.uasset" 269
+"E:/Game Development/Projects/MyProject/Content/Images/crosshair154.uasset" 270
+"E:/Game Development/Projects/MyProject/Content/Images/crosshair159.uasset" 271
+"E:/Game Development/Projects/MyProject/Content/UI/HUD.uasset" 272
+"E:/Game Development/Projects/MyProject/Content/ODSMannequin/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Female.uasset" 273
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Weapons/SM_Ammo_Box_04.uasset" 274
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Burst_M.uasset" 275
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_Burst.uasset" 276
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Explosion_SubUV.uasset" 277
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 278
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/m_flare_01.uasset" 279
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 280
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_radial_ramp.uasset" 281
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Smoke_SubUV.uasset" 282
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 283
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 284
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/P_Explosion.uasset" 285
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_Ammo_Pickup.uasset" 286
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/BP_ZombieJumpReached.uasset" 287
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Zombie_BB.uasset" 288
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Task/BTTask_ChasePlayer.uasset" 289
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Task/BTTask_FindPlayerLocation.uasset" 290
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Task/BTTask_FindRandomLocation.uasset" 291
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Task/BTTask_Stop_MoveTo.uasset" 292
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Task/BTTask_StopMoveDirectlyTowards.uasset" 293
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Zombie_BT.uasset" 294
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Zombie_AI_Controller.uasset" 295
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/Zombie_AI.uasset" 296
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/BP_ZombieJump.uasset" 297
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_102_long.uasset" 298
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_102a.uasset" 299
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_102b.uasset" 300
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_102c.uasset" 301
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_102end.uasset" 302
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Prefabs/FarmFence.uasset" 303
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_box.uasset" 304
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_box_2_set.uasset" 305
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_Drugs_01.uasset" 306
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MasterMaterials/M_Glass.uasset" 307
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_GlassBasic.uasset" 308
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor.uasset" 309
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_glossyGreen.uasset" 310
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_CargoTruckOld_Physics.uasset" 311
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SkeletonCar.uasset" 312
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_CargoTruckOld.uasset" 313
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Prefabs/PickupDrugs1.uasset" 314
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_planks_01.uasset" 315
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseTexture.uasset" 316
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Base/T_roadSet.uasset" 317
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_GroundTile.uasset" 318
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_dirt_00.uasset" 319
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_dirtEdge_01.uasset" 320
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_dirtEdge_01_cornerIn.uasset" 321
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Prefabs/PlotSq1.uasset" 322
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_block_2.uasset" 323
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_block_3.uasset" 324
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_block_concrete.uasset" 325
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_cone.uasset" 326
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteDarkBrown2.uasset" 327
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_wreck_02.uasset" 328
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_PoliceCarSUV_01_Physics.uasset" 329
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_glossyBlue.uasset" 330
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_glossyWhite.uasset" 331
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_Truck_01_Physics.uasset" 332
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SkeletonTruck.uasset" 333
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_Truck_01.uasset" 334
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_TruckTrailer_01_Physics.uasset" 335
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SkeletonTruckTrailer.uasset" 336
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_TruckTrailer_01.uasset" 337
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Prefabs/Road_block1.uasset" 338
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_01.uasset" 339
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01.uasset" 340
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_lantern.uasset" 341
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Prefabs/RoadStr1.uasset" 342
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_acousticGuitar_01.uasset" 343
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteDarkGreen.uasset" 344
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Armachair_03.uasset" 345
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Ball_01.uasset" 346
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Ball_02.uasset" 347
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Basket_01.uasset" 348
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Bed_02.uasset" 349
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Bed_03.uasset" 350
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Carpet_01.uasset" 351
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Cup_03.uasset" 352
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Cupboard_04.uasset" 353
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Cupboard_06.uasset" 354
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_foodCoffee.uasset" 355
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_foodPizza.uasset" 356
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_foodSaltPepper.uasset" 357
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_foodSoda.uasset" 358
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenBreadBox.uasset" 359
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenCabinet_03.uasset" 360
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenCabinet_04.uasset" 361
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenCabinetSink.uasset" 362
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenDeck.uasset" 363
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenFridge_01.uasset" 364
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenKnifeBox.uasset" 365
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenMicrowave.uasset" 366
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenOven_01.uasset" 367
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenPan_001.uasset" 368
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_kitchenPot_01.uasset" 369
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Lamp_03.uasset" 370
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Lamp_04.uasset" 371
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Lamp_06.uasset" 372
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_radio_02.uasset" 373
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Safe_01.uasset" 374
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Shower_01.uasset" 375
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Sink_01.uasset" 376
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Sofa_03.uasset" 377
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Table_02.uasset" 378
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Table_03.uasset" 379
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Table_05.uasset" 380
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Toilet_01.uasset" 381
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Towels_01.uasset" 382
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_Bicycle_01.uasset" 383
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_bottle_1.uasset" 384
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_bucket_metal.uasset" 385
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat_set.uasset" 386
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_bottles.uasset" 387
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_paint_set_1.uasset" 388
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Prefabs/TrailerFurniture.uasset" 389
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_brown.uasset" 390
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Panels_01_brown.uasset" 391
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_grey.uasset" 392
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Panels_01_grey.uasset" 393
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Planks_01.uasset" 394
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_tiles_02.uasset" 395
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Tiles_02.uasset" 396
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_01.uasset" 397
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Tiles_Wall_01.uasset" 398
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_01_blue.uasset" 399
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Wallpaper_01_blue.uasset" 400
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_01_yellow.uasset" 401
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Wallpaper_01_yellow.uasset" 402
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Buildings/SM_buildingTrailerHouse_02.uasset" 403
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_hose_01.uasset" 404
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_ladder_01.uasset" 405
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_newspaperStack.uasset" 406
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_paint_bucket_2.uasset" 407
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_paint_bucket_3.uasset" 408
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_TireSet_01.uasset" 409
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash.uasset" 410
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_1b.uasset" 411
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Prefabs/TrailerHouse1.uasset" 412
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteBlue.uasset" 413
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteDarkGrey.uasset" 414
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteDarkRed.uasset" 415
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteGreen.uasset" 416
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_02.uasset" 417
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Tiles_Wall_02.uasset" 418
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallMetal_01_white.uasset" 419
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_wallMetal_01_white.uasset" 420
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_13.uasset" 421
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Wallpaper_13.uasset" 422
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_20.uasset" 423
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Wallpaper_20.uasset" 424
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_22.uasset" 425
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Wallpaper_22.uasset" 426
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_23.uasset" 427
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Wallpaper_23.uasset" 428
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Buildings/SM_buildingTrailerHouse_01.uasset" 429
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Bookcase_04.uasset" 430
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteGrey.uasset" 431
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Chair_04.uasset" 432
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_champagneSet.uasset" 433
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Cup_02.uasset" 434
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Cupboard_01.uasset" 435
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Iron_01.uasset" 436
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_IroningBoard_01.uasset" 437
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Lamp_01.uasset" 438
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_sofa_05.uasset" 439
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_basicTable_01.uasset" 440
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Cupboard_02.uasset" 441
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Suitcase_01.uasset" 442
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Suitcase_02.uasset" 443
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_TV_01.uasset" 444
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/T_Portraits_01_A.uasset" 445
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Portraits.uasset" 446
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Portraits/SM_pictureFrame_02.uasset" 447
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Portraits/SM_pictureFrame_10.uasset" 448
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Portraits/SM_portraitDeskFrame_06.uasset" 449
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_4_set.uasset" 450
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_5.uasset" 451
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_mailbox_2.uasset" 452
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_pipesStock_01.uasset" 453
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Prefabs/TrailerHouse2.uasset" 454
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Weapons/SM_Rifle_01.uasset" 455
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_AR.uasset" 456
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 457
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 458
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 459
+"E:/Game Development/Projects/MyProject/Content/Character_Appearance_Dissolve/Textures/Standart/T_Sub_Noise_3.uasset" 460
+"E:/Game Development/Projects/MyProject/Content/Character_Appearance_Dissolve/Textures/Standart/T_Sub_Noise_6.uasset" 461
+"E:/Game Development/Projects/MyProject/Content/Character_Appearance_Dissolve/MaterailFunctions/Standart/MF_Appearance_5.uasset" 462
+"E:/Game Development/Projects/MyProject/Content/Materials/M_UnboughtWeapon.uasset" 463
+"E:/Game Development/Projects/MyProject/Content/Materials/M_UnboughtWeapon_Inst.uasset" 464
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_Buyable_AR.uasset" 465
+"E:/Game Development/Projects/MyProject/Content/Meshes/SM_Barn_Ally_Door.uasset" 466
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_Buyable_Barn_Ally.uasset" 467
+"E:/Game Development/Projects/MyProject/Content/Meshes/SM_Barrier_Prefab.uasset" 468
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_Buyable_Door.uasset" 469
+"E:/Game Development/Projects/MyProject/Content/Meshes/SM_MainBarnDoor.uasset" 470
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_Buyable_Door_Barn_Main.uasset" 471
+"E:/Game Development/Projects/MyProject/Content/Meshes/SM_Barn_Left.uasset" 472
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_Buyable_Door_Barn_Side.uasset" 473
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Explosion_Cue.uasset" 474
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_EaserEgg.uasset" 475
+"E:/Game Development/Projects/MyProject/Content/Blueprints/BP_PlayerNoEnter.uasset" 476
+"E:/Game Development/Projects/MyProject/Content/Characters/Zombie/BP_Spawner.uasset" 477
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 478
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01.uasset" 479
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MasterMaterials/M_Plants.uasset" 480
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Leaf_01.uasset" 481
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteBrown.uasset" 482
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_bush_01.uasset" 483
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/bush_01_FoliageType.uasset" 484
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Foliage/T_grassAlpha.uasset" 485
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_GrassVertical.uasset" 486
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_grassVerticalSingle.uasset" 487
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/grassVerticalSingle_FoliageType.uasset" 488
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Foliage/T_leaf_01a.uasset" 489
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Leaf_01a.uasset" 490
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_tree_01.uasset" 491
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/tree_01_FoliageType.uasset" 492
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/tree_01a_FoliageType.uasset" 493
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_tree_02.uasset" 494
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/tree_02_FoliageType.uasset" 495
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_treeLowPoly_01.uasset" 496
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/treeLowPoly_01_FoliageType.uasset" 497
+"E:/Game Development/Projects/MyProject/Content/Maps/Minimal_Default_BuiltData.uasset" 498
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Concrete_Poured_D.uasset" 499
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Concrete_Poured_N.uasset" 500
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_MacroVariation.uasset" 501
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Perlin_Noise_M.uasset" 502
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Materials/M_Concrete_Poured.uasset" 503
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_planks_05_DarkRed.uasset" 504
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_planks_05_DarkRed.uasset" 505
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Buildings/SM_buildingBarn_01.uasset" 506
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_matteDarkBrown.uasset" 507
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_panels_01_wood_light.uasset" 508
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_panels_01_wood_light.uasset" 509
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_panels_03.uasset" 510
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Panels_03.uasset" 511
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_planks_03.uasset" 512
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Planks_03.uasset" 513
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_tiles_01.uasset" 514
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Tiles_01.uasset" 515
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_tiles_06.uasset" 516
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Tiles_06.uasset" 517
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_tiles_09.uasset" 518
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Tiles_09.uasset" 519
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_tiles_wall_11.uasset" 520
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Tiles_Wall_11.uasset" 521
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_11.uasset" 522
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Wallpaper_11.uasset" 523
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Tiled/T_wallpaper_16.uasset" 524
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Wallpaper_16.uasset" 525
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Buildings/SM_GasStationOld.uasset" 526
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_grass_00.uasset" 527
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_grassHill_01.uasset" 528
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_parcel_road_01.uasset" 529
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_parkingSpot_01.uasset" 530
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_00.uasset" 531
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_road_04_quarter.uasset" 532
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_base.uasset" 533
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_corner.uasset" 534
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_cornerIn.uasset" 535
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_driveIn.uasset" 536
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/GroundTilset/SM_sidewalk_01_driveInDirt.uasset" 537
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/House/SM_Mirror_01.uasset" 538
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Chair_02.uasset" 539
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_lampIndustrial_01.uasset" 540
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_LiftTool_02.uasset" 541
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_metalShelf_01.uasset" 542
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Sink_02.uasset" 543
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Table_07.uasset" 544
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_ToolBox_01.uasset" 545
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_ToolBox_02.uasset" 546
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_cashRegister.uasset" 547
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_gunShopCounter_01_corner.uasset" 548
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_gunShopShelve_01.uasset" 549
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopCounter_01.uasset" 550
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopCounter_02.uasset" 551
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopCounter_03.uasset" 552
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopCounter_04.uasset" 553
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopFreezer_03.uasset" 554
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopFreezer_04.uasset" 555
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopNeon_02.uasset" 556
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopPoster_01.uasset" 557
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopPoster_03.uasset" 558
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopShelve_01.uasset" 559
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopShelve_02.uasset" 560
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopShelve_03.uasset" 561
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopShelve_04.uasset" 562
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopShelve_06.uasset" 563
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/InteriorProps/Other/SM_shopShelve_07.uasset" 564
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_background_Mountains_01.uasset" 565
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_rock_01.uasset" 566
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_rock_01_dirt.uasset" 567
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Foliage/T_leaf_02.uasset" 568
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_Leaf_02.uasset" 569
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_tree_03.uasset" 570
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Nature/SM_tree_04.uasset" 571
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_airCondition_01.uasset" 572
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_airCondition_02.uasset" 573
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_AntennaBig_01.uasset" 574
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_barrel_1.uasset" 575
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_barrel_2.uasset" 576
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_barrel_3.uasset" 577
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_bench_02.uasset" 578
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_Bicycle_02.uasset" 579
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_bike_rack.uasset" 580
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/Base/T_colorPalette2048_EMS.uasset" 581
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColorPalette_EMS.uasset" 582
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_ColorPalette_GLOW.uasset" 583
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_billboard_86Gasoline.uasset" 584
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_billboard_GasStationOld.uasset" 585
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_box_tray.uasset" 586
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_candy_machine_2.uasset" 587
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_candy_machine_2a.uasset" 588
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_box.uasset" 589
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_box_pallete.uasset" 590
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_box_tray.uasset" 591
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_carton_flat.uasset" 592
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_Chalk_Outline_01.uasset" 593
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_column_1.uasset" 594
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_1.uasset" 595
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_1_set.uasset" 596
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_crate_3_set.uasset" 597
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_107a.uasset" 598
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_fence_107b.uasset" 599
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_gas_can.uasset" 600
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_gas_can_2.uasset" 601
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_gasPumpsOld.uasset" 602
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_gasStationCarPort_01.uasset" 603
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_handTruck_01.uasset" 604
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_hydrant.uasset" 605
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_keg.uasset" 606
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_ladder_small.uasset" 607
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_metal_box.uasset" 608
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_metal_box_2.uasset" 609
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_newspaperSingle.uasset" 610
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_palette_euro.uasset" 611
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_parking_meter.uasset" 612
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_pipesStock_02.uasset" 613
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_powerCables_2.uasset" 614
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_press_box_1.uasset" 615
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_public_phone.uasset" 616
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_sign_2.uasset" 617
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_sign_3.uasset" 618
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_sign_4.uasset" 619
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_road_sign_5.uasset" 620
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_sewerCover.uasset" 621
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_speed_limit_75.uasset" 622
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_tank.uasset" 623
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_TireSet_02.uasset" 624
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bag.uasset" 625
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_1.uasset" 626
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_1a.uasset" 627
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_2.uasset" 628
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_4.uasset" 629
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_5.uasset" 630
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_trash_bin_bigOpen.uasset" 631
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_utility_pole_1.uasset" 632
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_utility_pole_4.uasset" 633
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_vending_machine_1.uasset" 634
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_vending_machine_2.uasset" 635
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_Water_Tank_01.uasset" 636
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_Windmill_01.uasset" 637
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_wooden_blocks.uasset" 638
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_workbench.uasset" 639
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/StreetProps/SM_wreck_01.uasset" 640
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_PickupOld_01_Physics.uasset" 641
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_PoliceCarSedan_01_Physics.uasset" 642
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_Van_01_Physics.uasset" 643
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_glossyBlack.uasset" 644
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_Muscle_01_Physics.uasset" 645
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_Muscle_01.uasset" 646
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_glossyRedDark.uasset" 647
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_Offroad_01_Physics.uasset" 648
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_Offroad_01.uasset" 649
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_Pickup_01_Physics.uasset" 650
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_Pickup_01.uasset" 651
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_PickupOld_01.uasset" 652
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Textures/T_PoliceCar_01.uasset" 653
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_PoliceCar_01.uasset" 654
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_PoliceCarSedan_01.uasset" 655
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_PoliceCarSUV_01.uasset" 656
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_Sedan_01_Physics.uasset" 657
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_Sedan_01.uasset" 658
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_glossyOrange.uasset" 659
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_SportClassic_01_Physics.uasset" 660
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_SportClassic_01.uasset" 661
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_glossyRed.uasset" 662
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_SportClassic_02_Physics.uasset" 663
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_SportClassic_02.uasset" 664
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_SUV_01_Physics.uasset" 665
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_SUV_01.uasset" 666
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_TruckTow_Physics.uasset" 667
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_TruckTow.uasset" 668
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Materials/MI_glossyCream.uasset" 669
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_Van_01.uasset" 670
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/PH_veh_VegetableTruck_Physics.uasset" 671
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Vehicles/SK_veh_VegetableTruck.uasset" 672
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Weapons/SM_Ammo_Box_01.uasset" 673
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Weapons/SM_Granade_01.uasset" 674
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Weapons/SM_MachineGun_01.uasset" 675
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Weapons/SM_Rifle_02.uasset" 676
+"E:/Game Development/Projects/MyProject/Content/AssetsvilleTown/Meshes/Weapons/SM_Shovel_01.uasset" 677
+"E:/Game Development/Projects/MyProject/Content/Audio/small_car_idling.uasset" 678
+"E:/Game Development/Projects/MyProject/Content/Audio/small_car_idling_Cue.uasset" 679
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Fire01.uasset" 680
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Fire01_Cue.uasset" 681
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Light01.uasset" 682
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Light01_Cue.uasset" 683
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Light02.uasset" 684
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Light02_Cue.uasset" 685
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Starter_Birds01.uasset" 686
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Starter_Wind05.uasset" 687
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Starter_Wind06.uasset" 688
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Audio/Starter_Background_Cue.uasset" 689
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Dust_Particle_D.uasset" 690
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 691
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/P_Ambient_Dust.uasset" 692
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Fire_SubUV.uasset" 693
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Fire_Tiled_D.uasset" 694
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 695
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Water_N.uasset" 696
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 697
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 698
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/P_Fire.uasset" 699
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/P_Smoke.uasset" 700
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Textures/T_Spark_Core.uasset" 701
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/Materials/M_Spark.uasset" 702
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/P_Sparks.uasset" 703
+"E:/Game Development/Projects/MyProject/Content/CustomLevel/StarterContent/Particles/P_Steam_Lit.uasset" 704
+"E:/Game Development/Projects/MyProject/Content/Mesh/Material.uasset" 705
+"E:/Game Development/Projects/MyProject/Content/Mesh/tunnel_Cube.uasset" 706
+"E:/Game Development/Projects/MyProject/Content/Mesh/black.uasset" 707
+"E:/Game Development/Projects/MyProject/Content/Mesh/tunnel_Cylinder.uasset" 708
+"E:/Game Development/Projects/MyProject/Content/Maps/Minimal_Default.umap" 709
